@@ -26,7 +26,7 @@ An _italicized_ title has been typeset and is available for review as part of th
 
 * "Introduction" by Jason Yee
 * _"How to strengthen your agile heartbeat with powerful retrospectives" by Matt Thompson_
-* _"The benfits of tracking issues publicly" by Chad Whitacre_
+* _"The benefits of tracking issues publicly" by Chad Whitacre_
 * "Onboarding for an agile team" by Jen Krieger
 * "The five laws of DevOps" by Chris Short
 * "Mastering feedback loops" by Jimmy Sjölund
